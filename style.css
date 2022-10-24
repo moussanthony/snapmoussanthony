@@ -1,0 +1,35 @@
+html {
+  overflow-x: hidden !important;
+}
+
+.back {
+  background: rgb(0, 150, 230);
+  background: radial-gradient(
+    circle,
+    rgba(0, 150, 230, 1) 0%,
+    rgba(104, 122, 194, 1) 23%,
+    rgba(85, 82, 82, 1) 65%
+  );
+}
+
+.back2 {
+  background-color: #555252;
+}
+
+.profile {
+  border-radius: 50%;
+}
+
+.ft-title {
+  font-family: 'Caveat', cursive;
+}
+
+.ft-subtitle {
+  font-family: 'Audiowide', cursive;
+  font-size: 10px;
+}
+
+.ft-subtitle2 {
+  font-family: 'Audiowide', cursive;
+  font-size: 7px;
+}
